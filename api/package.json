@@ -1,0 +1,12 @@
+{
+  "name": "wellframeapi",
+  "version": "1.0.0",
+  "description": "An api representing patients and medicines",
+  "main": "index.js",
+  "author": "Liam Moynihan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
